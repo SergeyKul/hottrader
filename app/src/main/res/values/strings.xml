@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hottrader</string>
+    <string name="overview">Огляд</string>
+    <string name="description">Опис</string>
+</resources>
